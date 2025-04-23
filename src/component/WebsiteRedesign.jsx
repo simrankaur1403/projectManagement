@@ -3,7 +3,7 @@ import React from 'react'
 const WebsiteRedesign = () => {
     return (
         <>
-            <nav className=' flex  px-10 justify-between py-2 px-7 '>
+            <nav className=' flex  px-10 justify-between py-2  '>
                 <div className='flex flex-row gap-7'>
                     <p className=' font-bold ml-9'>MilestoneHQ</p>
                     <p>Dashboard</p>
